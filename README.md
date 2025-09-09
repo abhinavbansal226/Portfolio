@@ -1,12 +1,30 @@
-# React + Vite
+React Portfolio Website for Abhinav Bansal
+This is a modern, responsive personal portfolio website for Abhinav Bansal, built with React and Tailwind CSS. It features a clean, dark-themed design with smooth animations and is designed to showcase projects, skills, and contact information in a professional manner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Modern & Responsive Design: A sleek, dark-themed UI that looks great on all devices, from mobile phones to desktops.
 
-Currently, two official plugins are available:
+Smooth Animations: Interactive elements and page transitions powered by Framer Motion to enhance user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Component-Based Architecture: Built with reusable React components for easy maintenance and scalability.
 
-## Expanding the ESLint configuration
+Multi-Page Layout: Includes four main pages:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Home: An engaging hero section with a clear call-to-action for projects.
+
+About: A detailed section for a personal bio, a comprehensive tech stack, and a resume download link.
+
+Projects: An interactive grid of project cards with a "View Details" modal for more in-depth information.
+
+Contact: A professional contact form and direct links to social media profiles.
+
+Easy to Customize: Project data, skills, and personal information are stored in simple data arrays, making them easy to update.
+
+Technologies Used
+Frontend: React, Tailwind CSS
+
+Routing: React Router DOM
+
+Animations: Framer Motion
+
+Icons: React Icons
