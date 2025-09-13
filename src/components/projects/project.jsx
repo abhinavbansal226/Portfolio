@@ -37,7 +37,7 @@ const projectsData = [
     image: blogAppImage, 
     images: [blogAppImage, blogAppImage2, blogAppImage3],
     tags: ['MERN', 'React', 'Gemini API', 'ImageKit', 'JWT', 'Admin Dashboard'],
-    liveLink: 'https://abhinav-ai-bloggind-e2uod7vvc-abhinavbansal226s-projects.vercel.app/',
+    liveLink: 'https://abhinav-ai-bloggind-app.vercel.app/',
     codeLink: 'https://github.com/abhinavbansal226/BlogApp',
   },
   {
